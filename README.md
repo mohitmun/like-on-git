@@ -12,3 +12,4 @@
 - [1132: Frequentists vs. Bayesians - explain xkcd](https://www.explainxkcd.com/wiki/index.php/1132:_Frequentists_vs._Bayesians#cite_note-munroe-on-gelman-0) 
 - [How can my portable battery charger drain itself completely when charging my phone? Shouldn't the two batteries come to equilibrium? : askscience](https://www.reddit.com/r/askscience/comments/63mm0h/how_can_my_portable_battery_charger_drain_itself/?st=j2uc4260&sh=e194352c) 
 - [People who are Google Search geniuses, what is your pro tip for finding stuff that no one else seems to find? : AskReddit](https://www.reddit.com/r/AskReddit/comments/5t3rk4/people_who_are_google_search_geniuses_what_is/?st=j2udzwbt&sh=929ef693) 
+- [People who are Google Search geniuses, what is your pro tip for finding stuff that no one else seems to find? : AskReddit](https://www.reddit.com/r/AskReddit/comments/5t3rk4/people_who_are_google_search_geniuses_what_is/?st=j2udzwbt&sh=929ef693) 
