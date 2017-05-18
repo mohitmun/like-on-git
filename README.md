@@ -6,3 +6,4 @@
 - [You Are Not So Smart](https://youarenotsosmart.com/) 
 - [Evolution Strategies as a Scalable Alternative to Reinforcement Learning](https://blog.openai.com/evolution-strategies/) 
 - [ELI5: how are we able to consciously read while zoning out at the same time? : explainlikeimfive](https://www.reddit.com/r/explainlikeimfive/comments/672rb2/eli5_how_are_we_able_to_consciously_read_while/?st=j2u7so79&sh=adeb876e) 
+- [Idnan/like-on-git: Chrome extension - Link a repository with the extension and automatically save the links to content you like](https://github.com/Idnan/like-on-git) 
