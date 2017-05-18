@@ -9,3 +9,4 @@
 - [Idnan/like-on-git: Chrome extension - Link a repository with the extension and automatically save the links to content you like](https://github.com/Idnan/like-on-git) 
 - [Science AMA Series: I'm Beau Lotto, a neuroscientist who specializes in the biology and psychology of perception. I just wrote a book called DEVIATE about the science of seeing differently and am here to talk about it. AMA! : science](https://www.reddit.com/r/science/comments/678la4/science_ama_series_im_beau_lotto_a_neuroscientist/?st=j2u7snri&sh=0f6d64d4) 
 - [The Bayesian Trap - YouTube](https://www.youtube.com/watch?v=R13BD8qKeTg) 
+- [1132: Frequentists vs. Bayesians - explain xkcd](https://www.explainxkcd.com/wiki/index.php/1132:_Frequentists_vs._Bayesians#cite_note-munroe-on-gelman-0) 
