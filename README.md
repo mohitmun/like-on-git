@@ -14,3 +14,4 @@
 - [People who are Google Search geniuses, what is your pro tip for finding stuff that no one else seems to find? : AskReddit](https://www.reddit.com/r/AskReddit/comments/5t3rk4/people_who_are_google_search_geniuses_what_is/?st=j2udzwbt&sh=929ef693) 
 - [People who are Google Search geniuses, what is your pro tip for finding stuff that no one else seems to find? : AskReddit](https://www.reddit.com/r/AskReddit/comments/5t3rk4/people_who_are_google_search_geniuses_what_is/?st=j2udzwbt&sh=929ef693) 
 - [People who are Google Search geniuses, what is your pro tip for finding stuff that no one else seems to find? : AskReddit](https://www.reddit.com/r/AskReddit/comments/5t3rk4/people_who_are_google_search_geniuses_what_is/?st=j2udzwbt&sh=929ef693) 
+- [papers-we-love/papers-we-love: Papers from the computer science community to read and discuss.](https://github.com/papers-we-love/papers-we-love) 
