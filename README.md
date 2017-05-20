@@ -20,3 +20,6 @@
 ### May 19, 2017
 - [Chrome Music Lab](https://musiclab.chromeexperiments.com/Experiments) 
 - [Android Experiments](https://www.androidexperiments.com/) 
+
+### May 20, 2017
+- [Real-Time User-Guided Image Colorization with Learned Deep Priors](https://richzhang.github.io/ideepcolor/) 
