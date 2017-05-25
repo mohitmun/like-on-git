@@ -32,3 +32,4 @@
 - [ELI5: Why do 5-year-olds (and under) like to watch the same movie every day for months at a time? : explainlikeimfive](https://www.reddit.com/r/explainlikeimfive/comments/6d22mv/eli5_why_do_5yearolds_and_under_like_to_watch_the/?st=j345vpxs&sh=10a65283) 
 - [Little Things I Like to Do with Git – CSS Wizardry – CSS Architecture, Web Performance Optimisation, and more, by Harry Roberts](https://csswizardry.com/2017/05/little-things-i-like-to-do-with-git/) 
 - [SBI National Hackathon-Code for Bank | HackerEarth Hackathons](https://www.hackerearth.com/sprints/sbi-code-for-bank-2017/) 
+- [donnemartin/system-design-primer: Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.](https://github.com/donnemartin/system-design-primer#sql-tuning) 
