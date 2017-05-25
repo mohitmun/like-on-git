@@ -26,3 +26,6 @@
 
 ### May 23, 2017
 - [google/tamperchrome: Tamper Chrome is a Chrome extension that allows you to modify HTTP requests on the fly and aid on web security testing. Tamper Chrome works across all operating systems (including Chrome OS).](https://github.com/google/tamperchrome) 
+
+### May 25, 2017
+- [MindorksOpenSource/from-java-to-kotlin: From Java To Kotlin - Your Cheat Sheet For Java To Kotlin](https://github.com/MindorksOpenSource/from-java-to-kotlin) 
