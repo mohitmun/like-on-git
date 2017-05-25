@@ -38,3 +38,4 @@
 - [jlevy/the-art-of-command-line: Master the command line, in one page](https://github.com/jlevy/the-art-of-command-line) 
 - [Reverse engineering and removing Pokémon GO’s certificate pinning | Eaton Works](https://eaton-works.com/2016/07/31/reverse-engineering-and-removing-pokemon-gos-certificate-pinning/) 
 - [Bypassing SSL Pinning in Android Applications – serializethoughts](https://serializethoughts.com/2016/08/18/bypassing-ssl-pinning-in-android-applications/) 
+- [tls - What is certificate pinning? - Information Security Stack Exchange](https://security.stackexchange.com/questions/29988/what-is-certificate-pinning) 
