@@ -36,3 +36,4 @@
 - [System Design Cheatsheet](https://gist.github.com/vasanthk/485d1c25737e8e72759f) 
 - [kamranahmedse/developer-roadmap: Roadmap to becoming a web developer in 2017](https://github.com/kamranahmedse/developer-roadmap) 
 - [jlevy/the-art-of-command-line: Master the command line, in one page](https://github.com/jlevy/the-art-of-command-line) 
+- [Reverse engineering and removing Pokémon GO’s certificate pinning | Eaton Works](https://eaton-works.com/2016/07/31/reverse-engineering-and-removing-pokemon-gos-certificate-pinning/) 
