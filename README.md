@@ -35,3 +35,4 @@
 - [donnemartin/system-design-primer: Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.](https://github.com/donnemartin/system-design-primer#sql-tuning) 
 - [System Design Cheatsheet](https://gist.github.com/vasanthk/485d1c25737e8e72759f) 
 - [kamranahmedse/developer-roadmap: Roadmap to becoming a web developer in 2017](https://github.com/kamranahmedse/developer-roadmap) 
+- [jlevy/the-art-of-command-line: Master the command line, in one page](https://github.com/jlevy/the-art-of-command-line) 
