@@ -39,3 +39,6 @@
 - [Reverse engineering and removing Pokémon GO’s certificate pinning | Eaton Works](https://eaton-works.com/2016/07/31/reverse-engineering-and-removing-pokemon-gos-certificate-pinning/) 
 - [Bypassing SSL Pinning in Android Applications – serializethoughts](https://serializethoughts.com/2016/08/18/bypassing-ssl-pinning-in-android-applications/) 
 - [tls - What is certificate pinning? - Information Security Stack Exchange](https://security.stackexchange.com/questions/29988/what-is-certificate-pinning) 
+
+### May 26, 2017
+- [Your Family: Past, Present, and Future - Wait But Why](http://waitbutwhy.com/2014/01/your-family-past-present-and-future.html) 
