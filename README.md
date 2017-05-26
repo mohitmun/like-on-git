@@ -42,3 +42,4 @@
 
 ### May 26, 2017
 - [Your Family: Past, Present, and Future - Wait But Why](http://waitbutwhy.com/2014/01/your-family-past-present-and-future.html) 
+- [8 Ways to Read (a Lot) More Books This Year](https://hbr.org/2017/02/8-ways-to-read-a-lot-more-books-this-year) 
