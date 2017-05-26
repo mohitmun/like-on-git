@@ -43,3 +43,4 @@
 ### May 26, 2017
 - [Your Family: Past, Present, and Future - Wait But Why](http://waitbutwhy.com/2014/01/your-family-past-present-and-future.html) 
 - [8 Ways to Read (a Lot) More Books This Year](https://hbr.org/2017/02/8-ways-to-read-a-lot-more-books-this-year) 
+- [Elon Musk: The future we're building -- and boring | TED Talk Subtitles and Transcript | TED.com](https://www.ted.com/talks/elon_musk_the_future_we_re_building_and_boring/transcript?language=en#t-1878995) 
