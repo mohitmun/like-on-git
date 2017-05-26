@@ -46,3 +46,4 @@
 - [Elon Musk: The future we're building -- and boring | TED Talk Subtitles and Transcript | TED.com](https://www.ted.com/talks/elon_musk_the_future_we_re_building_and_boring/transcript?language=en#t-1878995) 
 - [You and Your Research](http://www.cs.virginia.edu/~robins/YouAndYourResearch.html) 
 - [References vs. Pointers | Embedded](http://www.embedded.com/electronics-blogs/programming-pointers/4023307/References-vs-Pointers) 
+- [ELI5 ... The softmax algorithm : MachineLearning](https://www.reddit.com/r/MachineLearning/comments/42ny98/eli5_the_softmax_algorithm/?st=iz0xgd46&sh=768b5527) 
