@@ -48,3 +48,6 @@
 - [References vs. Pointers | Embedded](http://www.embedded.com/electronics-blogs/programming-pointers/4023307/References-vs-Pointers) 
 - [ELI5 ... The softmax algorithm : MachineLearning](https://www.reddit.com/r/MachineLearning/comments/42ny98/eli5_the_softmax_algorithm/?st=iz0xgd46&sh=768b5527) 
 - [The amazing power of word vectors | the morning paper](https://blog.acolyer.org/2016/04/21/the-amazing-power-of-word-vectors/) 
+
+### May 27, 2017
+- [msracver/Deep-Image-Analogy: The source code of 'Visual Attribute Transfer through Deep Image Analogy'.](https://github.com/msracver/Deep-Image-Analogy) 
