@@ -57,3 +57,4 @@
 - [msracver/Deep-Image-Analogy: The source code of 'Visual Attribute Transfer through Deep Image Analogy'.](https://github.com/msracver/Deep-Image-Analogy) 
 - [Vector Representations of Words  |  TensorFlow](https://www.tensorflow.org/tutorials/word2vec) 
 - [Ask HN: What is your most impressive hackathon project? | Hacker News](https://news.ycombinator.com/item?id=14416878) 
+- [Vector Representations of Words  |  TensorFlow](https://www.tensorflow.org/tutorials/word2vec) 
