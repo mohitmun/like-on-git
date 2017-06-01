@@ -58,3 +58,6 @@
 - [Vector Representations of Words  |  TensorFlow](https://www.tensorflow.org/tutorials/word2vec) 
 - [Ask HN: What is your most impressive hackathon project? | Hacker News](https://news.ycombinator.com/item?id=14416878) 
 - [Vector Representations of Words  |  TensorFlow](https://www.tensorflow.org/tutorials/word2vec) 
+
+### June 1, 2017
+- [Kaggle Past Competitions](http://ndres.me/kaggle-past-solutions/) 
