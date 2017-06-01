@@ -61,3 +61,4 @@
 
 ### June 1, 2017
 - [Kaggle Past Competitions](http://ndres.me/kaggle-past-solutions/) 
+- [code golf - Covfefify a string - Programming Puzzles & Code Golf Stack Exchange](https://codegolf.stackexchange.com/questions/123685/covfefify-a-string) 
