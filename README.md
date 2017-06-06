@@ -65,3 +65,6 @@
 
 ### June 2, 2017
 - [Year Of No Light - Persephone II - (LIVE HD - sound mastered) - YouTube](https://www.youtube.com/watch?v=qz8WcYwEdGQ) 
+
+### June 7, 2017
+- [How Elon Musk learns faster and better than everyone else — Quartz](https://qz.com/968101/how-elon-musk-learns-faster-and-better-than-everyone-else/) 
