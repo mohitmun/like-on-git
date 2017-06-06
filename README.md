@@ -68,3 +68,4 @@
 
 ### June 7, 2017
 - [How Elon Musk learns faster and better than everyone else — Quartz](https://qz.com/968101/how-elon-musk-learns-faster-and-better-than-everyone-else/) 
+- [Hinds_Patterson_Pfeffer_2001.pdf](http://web.stanford.edu/group/WTO/cgi-bin/wp/wp-content/uploads/2014/pub_old/Hinds_Patterson_Pfeffer_2001.pdf) 
