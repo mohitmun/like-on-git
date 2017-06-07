@@ -69,3 +69,4 @@
 ### June 7, 2017
 - [How Elon Musk learns faster and better than everyone else — Quartz](https://qz.com/968101/how-elon-musk-learns-faster-and-better-than-everyone-else/) 
 - [Hinds_Patterson_Pfeffer_2001.pdf](http://web.stanford.edu/group/WTO/cgi-bin/wp/wp-content/uploads/2014/pub_old/Hinds_Patterson_Pfeffer_2001.pdf) 
+- [Robert Waldinger: What makes a good life? Lessons from the longest study on happiness | TED Talk | TED.com](https://www.ted.com/talks/robert_waldinger_what_makes_a_good_life_lessons_from_the_longest_study_on_happiness#t-117532) 
