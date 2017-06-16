@@ -73,3 +73,6 @@
 
 ### June 11, 2017
 - [flamencist/CopyCssSelector: Copy Css Selector chrome extension](https://github.com/flamencist/CopyCssSelector) 
+
+### June 16, 2017
+- [Google Brain Residency](http://tinyclouds.org/residency/) 
