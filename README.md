@@ -79,3 +79,6 @@
 - [Machine Learning is Fun! Part 4: Modern Face Recognition with Deep Learning – Medium](https://medium.com/@ageitgey/machine-learning-is-fun-part-4-modern-face-recognition-with-deep-learning-c3cffc121d78) 
 - [Machine Learning is Fun! Part 2 – Adam Geitgey – Medium](https://medium.com/@ageitgey/machine-learning-is-fun-part-2-a26a10b68df3) 
 - [Machine Learning is Fun Part 5: Language Translation with Deep Learning and the Magic of Sequences](https://medium.com/@ageitgey/machine-learning-is-fun-part-5-language-translation-with-deep-learning-and-the-magic-of-sequences-2ace0acca0aa) 
+
+### June 17, 2017
+- [How To Deploy a Rails App with Puma and Nginx on Ubuntu 14.04 | DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-deploy-a-rails-app-with-puma-and-nginx-on-ubuntu-14-04#install-and-configure-nginx) 
