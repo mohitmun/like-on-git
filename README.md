@@ -82,3 +82,6 @@
 
 ### June 17, 2017
 - [How To Deploy a Rails App with Puma and Nginx on Ubuntu 14.04 | DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-deploy-a-rails-app-with-puma-and-nginx-on-ubuntu-14-04#install-and-configure-nginx) 
+
+### June 26, 2017
+- [What are some biological life hacks that actually work? : AskReddit](https://www.reddit.com/r/AskReddit/comments/6f011c/what_are_some_biological_life_hacks_that_actually/?st=j3o4y8jr&sh=6139d5df) 
