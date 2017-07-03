@@ -86,3 +86,6 @@
 ### June 26, 2017
 - [What are some biological life hacks that actually work? : AskReddit](https://www.reddit.com/r/AskReddit/comments/6f011c/what_are_some_biological_life_hacks_that_actually/?st=j3o4y8jr&sh=6139d5df) 
 - [scope - JavaScript closures vs. anonymous functions - Stack Overflow](https://stackoverflow.com/questions/12930272/javascript-closures-vs-anonymous-functions) 
+
+### July 3, 2017
+- [A Friendly Introduction to Cross-Entropy Loss](https://rdipietro.github.io/friendly-intro-to-cross-entropy-loss/) 
