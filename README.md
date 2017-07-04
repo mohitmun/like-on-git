@@ -89,3 +89,6 @@
 
 ### July 3, 2017
 - [A Friendly Introduction to Cross-Entropy Loss](https://rdipietro.github.io/friendly-intro-to-cross-entropy-loss/) 
+
+### July 4, 2017
+- [Ask HN: What are some 'must watch' talks? | Hacker News](https://news.ycombinator.com/item?id=13574916) 
