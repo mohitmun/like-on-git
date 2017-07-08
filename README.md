@@ -92,3 +92,6 @@
 
 ### July 4, 2017
 - [Ask HN: What are some 'must watch' talks? | Hacker News](https://news.ycombinator.com/item?id=13574916) 
+
+### July 8, 2017
+- [Rails Console Shortcuts, Tips, and Tricks](https://pragmaticstudio.com/blog/2014/3/11/console-shortcuts-tips-tricks) 
