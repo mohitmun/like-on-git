@@ -95,3 +95,6 @@
 
 ### July 8, 2017
 - [Rails Console Shortcuts, Tips, and Tricks](https://pragmaticstudio.com/blog/2014/3/11/console-shortcuts-tips-tricks) 
+
+### August 6, 2017 
+- [How to Make Wealth](http://paulgraham.com/wealth.html) 
