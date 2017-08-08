@@ -98,3 +98,6 @@
 
 ### August 6, 2017 
 - [How to Make Wealth](http://paulgraham.com/wealth.html) 
+
+### August 8, 2017 
+- [xori/gamblers-dice: A terrible idea, now real.](https://github.com/xori/gamblers-dice) 
