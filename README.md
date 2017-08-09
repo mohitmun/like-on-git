@@ -101,3 +101,6 @@
 
 ### August 8, 2017 
 - [xori/gamblers-dice: A terrible idea, now real.](https://github.com/xori/gamblers-dice) 
+
+### August 9, 2017 
+- [Engineering Extreme Event Forecasting at Uber with Recurrent Neural Networks - Uber Engineering Blog](https://eng.uber.com/neural-networks/) 
