@@ -107,3 +107,4 @@
 
 ### August 10, 2017 
 - [Using Keras and Deep Q-Network to Play FlappyBird | Ben Lau](https://yanpanlau.github.io/2016/07/10/FlappyBird-Keras.html) 
+- [Stop using backtick to run shell command in Ruby · hilman.io](http://www.hilman.io/blog/2016/01/stop-using-backtick-to-run-shell-command-in-ruby/) 
