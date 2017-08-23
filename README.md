@@ -111,3 +111,4 @@
 
 ### August 23, 2017 
 - [Design overview — libuv documentation](http://docs.libuv.org/en/v1.x/design.html) 
+- [What happens if you write a TCP stack in Python? - Julia Evans](https://jvns.ca/blog/2014/08/12/what-happens-if-you-write-a-tcp-stack-in-python/) 
