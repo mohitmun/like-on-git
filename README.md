@@ -115,3 +115,4 @@
 
 ### August 26, 2017 
 - [Spamnesty - Home](https://spa.mnesty.com/) 
+- [Oh man, that describes all of them. http://ipfessay.stavros.io/ - Publish uncen... | Hacker News](https://news.ycombinator.com/item?id=14978955) 
