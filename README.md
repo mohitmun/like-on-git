@@ -116,3 +116,6 @@
 ### August 26, 2017 
 - [Spamnesty - Home](https://spa.mnesty.com/) 
 - [Oh man, that describes all of them. http://ipfessay.stavros.io/ - Publish uncen... | Hacker News](https://news.ycombinator.com/item?id=14978955) 
+
+### August 28, 2017 
+- [directory structure - What is the difference between /opt and /usr/local? - Unix & Linux Stack Exchange](https://unix.stackexchange.com/questions/11544/what-is-the-difference-between-opt-and-usr-local) 
