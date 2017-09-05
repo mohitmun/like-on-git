@@ -119,3 +119,6 @@
 
 ### August 28, 2017 
 - [directory structure - What is the difference between /opt and /usr/local? - Unix & Linux Stack Exchange](https://unix.stackexchange.com/questions/11544/what-is-the-difference-between-opt-and-usr-local) 
+
+### September 5, 2017 
+- [How Does a Database Work? | Let’s Build a Simple Database](https://cstack.github.io/db_tutorial/) 
