@@ -122,3 +122,6 @@
 
 ### September 5, 2017 
 - [How Does a Database Work? | Let’s Build a Simple Database](https://cstack.github.io/db_tutorial/) 
+
+### September 6, 2017 
+- [The TTY demystified](http://www.linusakesson.net/programming/tty/index.php) 
