@@ -129,3 +129,4 @@
 
 ### September 20, 2017 
 - [Please disable 'Perform DNS lookups to check if URLs are valid?' by default (#6050) · Issues · George Nachman / iterm2 · GitLab](https://gitlab.com/gnachman/iterm2/issues/6050) 
+- [What Is WebRTC and How Does It Work?](https://www.innoarchitech.com/what-is-webrtc-and-how-does-it-work/) 
