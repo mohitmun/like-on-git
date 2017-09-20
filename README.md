@@ -126,3 +126,6 @@
 ### September 6, 2017 
 - [The TTY demystified](http://www.linusakesson.net/programming/tty/index.php) 
 - [Clone all repos from a GitHub organization](https://gist.github.com/caniszczyk/3856584) 
+
+### September 20, 2017 
+- [Please disable 'Perform DNS lookups to check if URLs are valid?' by default (#6050) · Issues · George Nachman / iterm2 · GitLab](https://gitlab.com/gnachman/iterm2/issues/6050) 
