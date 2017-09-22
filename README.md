@@ -133,3 +133,4 @@
 
 ### September 22, 2017 
 - [How ARP works — Tildefrugal](https://www.tildefrugal.net/tech/arp/) 
+- [Speed in Software Development.](https://www.targetprocess.com/articles/speed-in-software-development/) 
