@@ -135,3 +135,6 @@
 - [How ARP works — Tildefrugal](https://www.tildefrugal.net/tech/arp/) 
 - [Speed in Software Development.](https://www.targetprocess.com/articles/speed-in-software-development/) 
 - [Understanding Session Description Protocol (SDP) | SIP Adventures](https://andrewjprokop.wordpress.com/2013/09/30/understanding-session-description-protocol-sdp/) 
+
+### September 23, 2017 
+- [How I got to 200 productive hours a month](https://qotoqot.com/blog/improving-focus/) 
