@@ -138,3 +138,4 @@
 
 ### September 23, 2017 
 - [How I got to 200 productive hours a month](https://qotoqot.com/blog/improving-focus/) 
+- [Differences Between Classical vs. Operant Conditioning](https://www.verywell.com/classical-vs-operant-conditioning-2794861) 
