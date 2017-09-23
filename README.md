@@ -139,3 +139,4 @@
 ### September 23, 2017 
 - [How I got to 200 productive hours a month](https://qotoqot.com/blog/improving-focus/) 
 - [Differences Between Classical vs. Operant Conditioning](https://www.verywell.com/classical-vs-operant-conditioning-2794861) 
+- [ryans01 comments on I just don't care about myself.](https://www.reddit.com/r/getdisciplined/comments/1q96b5/i_just_dont_care_about_myself/cdah4af/?st=j7wx8pn7&sh=495c1382) 
