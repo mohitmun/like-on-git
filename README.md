@@ -140,3 +140,6 @@
 - [How I got to 200 productive hours a month](https://qotoqot.com/blog/improving-focus/) 
 - [Differences Between Classical vs. Operant Conditioning](https://www.verywell.com/classical-vs-operant-conditioning-2794861) 
 - [ryans01 comments on I just don't care about myself.](https://www.reddit.com/r/getdisciplined/comments/1q96b5/i_just_dont_care_about_myself/cdah4af/?st=j7wx8pn7&sh=495c1382) 
+
+### September 28, 2017 
+- [What is the most p​​lea​​san​​t and u​​pli​​ftin​​g fact you know? : AskReddit](https://www.reddit.com/r/AskReddit/comments/72y7pa/what_is_the_most_pleasant_and_uplifting_fact_you/?st=j84kf32r&sh=88c15d48) 
