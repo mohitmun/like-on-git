@@ -143,3 +143,6 @@
 
 ### September 28, 2017 
 - [What is the most p​​lea​​san​​t and u​​pli​​ftin​​g fact you know? : AskReddit](https://www.reddit.com/r/AskReddit/comments/72y7pa/what_is_the_most_pleasant_and_uplifting_fact_you/?st=j84kf32r&sh=88c15d48) 
+
+### September 30, 2017 
+- [xkcd: A Bunch of Rocks](https://xkcd.com/505/) 
