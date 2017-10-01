@@ -146,3 +146,6 @@
 
 ### September 30, 2017 
 - [xkcd: A Bunch of Rocks](https://xkcd.com/505/) 
+
+### October 1, 2017 
+- [Gary Bernhardt on Twitter: "What to read about database optimization? Ideally Postgres-specific, skipping basics (e.g., I've studied the relational calculus & algebra)."](https://twitter.com/garybernhardt/status/914218590609432576) 
