@@ -149,3 +149,6 @@
 
 ### October 1, 2017 
 - [Gary Bernhardt on Twitter: "What to read about database optimization? Ideally Postgres-specific, skipping basics (e.g., I've studied the relational calculus & algebra)."](https://twitter.com/garybernhardt/status/914218590609432576) 
+
+### October 3, 2017 
+- [The Best Fat Loss Article on the Motherfuckin’ Internet](http://physiqonomics.com/fat-loss/) 
