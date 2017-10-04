@@ -152,3 +152,6 @@
 
 ### October 3, 2017 
 - [The Best Fat Loss Article on the Motherfuckin’ Internet](http://physiqonomics.com/fat-loss/) 
+
+### October 4, 2017 
+- [Interactive Vim tutorial](http://www.openvim.com/) 
