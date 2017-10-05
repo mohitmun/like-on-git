@@ -155,3 +155,6 @@
 
 ### October 4, 2017 
 - [Interactive Vim tutorial](http://www.openvim.com/) 
+
+### October 5, 2017 
+- [Ask HN: What books have made the biggest impact on your mental models? | Hacker News](https://news.ycombinator.com/item?id=15155833) 
