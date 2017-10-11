@@ -161,3 +161,4 @@
 
 ### October 11, 2017 
 - [Playing APK Golf](https://fractalwrench.co.uk/posts/playing-apk-golf-how-low-can-an-android-app-go/) 
+- [How Your Sedentary Lifestyle is Killing You — Elth](https://elth.co/sedentary-lifestyle-killing/) 
