@@ -158,3 +158,6 @@
 
 ### October 5, 2017 
 - [Ask HN: What books have made the biggest impact on your mental models? | Hacker News](https://news.ycombinator.com/item?id=15155833) 
+
+### October 11, 2017 
+- [Playing APK Golf](https://fractalwrench.co.uk/posts/playing-apk-golf-how-low-can-an-android-app-go/) 
