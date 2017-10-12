@@ -165,3 +165,4 @@
 
 ### October 12, 2017 
 - [Everything You Need to Know About Carbohydrates — Elth](https://elth.co/all-about-carbohydrates-diet/) 
+- [A Low Carb Diet Meal Plan and Menu That Can Save Your Life](https://www.healthline.com/nutrition/low-carb-diet-meal-plan-and-menu) 
