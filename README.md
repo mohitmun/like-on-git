@@ -169,3 +169,6 @@
 
 ### October 13, 2017 
 - [Telling a Story from the Inside Out - YouTube](https://www.youtube.com/watch?v=ulm7bcB2xvY) 
+
+### October 17, 2017 
+- [What are reasons to live? : AskReddit](https://www.reddit.com/r/AskReddit/comments/6os0e1/what_are_reasons_to_live/?st=j8v4oofh&sh=0122e13f) 
