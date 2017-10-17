@@ -172,3 +172,4 @@
 
 ### October 17, 2017 
 - [What are reasons to live? : AskReddit](https://www.reddit.com/r/AskReddit/comments/6os0e1/what_are_reasons_to_live/?st=j8v4oofh&sh=0122e13f) 
+- [The Fable of the Dragon-Tyrant](https://nickbostrom.com/fable/dragon.html) 
