@@ -176,3 +176,4 @@
 
 ### October 19, 2017 
 - [Fishrage_ comments on We are the Microsoft Excel team - Ask Us Anything!](https://www.reddit.com/r/IAmA/comments/777mb6/we_are_the_microsoft_excel_team_ask_us_anything/dojm2c9/?st=j8xyj2mn&sh=d27ddddd) 
+- [What theory, phenomenon or idea blows your mind when you think about it? : AskReddit](https://www.reddit.com/r/AskReddit/comments/779sy4/what_theory_phenomenon_or_idea_blows_your_mind/?st=j8xyjk1w&sh=e2a91dcc) 
