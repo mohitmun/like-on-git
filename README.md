@@ -173,3 +173,6 @@
 ### October 17, 2017 
 - [What are reasons to live? : AskReddit](https://www.reddit.com/r/AskReddit/comments/6os0e1/what_are_reasons_to_live/?st=j8v4oofh&sh=0122e13f) 
 - [The Fable of the Dragon-Tyrant](https://nickbostrom.com/fable/dragon.html) 
+
+### October 19, 2017 
+- [Fishrage_ comments on We are the Microsoft Excel team - Ask Us Anything!](https://www.reddit.com/r/IAmA/comments/777mb6/we_are_the_microsoft_excel_team_ask_us_anything/dojm2c9/?st=j8xyj2mn&sh=d27ddddd) 
