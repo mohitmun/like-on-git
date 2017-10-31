@@ -181,3 +181,6 @@
 ### October 30, 2017 
 - [You awaken, clothes smoking, in a ruined bunker in 1945 with a box containing a 2015-era laptop with Photoshop and Premiere Pro installed, a scanner, photo printer, analog-to-USB input converter and more than enough printer ink and card photo stock. How do you best start screwing with history? : AskReddit](https://www.reddit.com/r/AskReddit/comments/79h5dc/you_awaken_clothes_smoking_in_a_ruined_bunker_in/?st=j9dq0owa&sh=6394a9c1) 
 - [Here's what losing weight does to your body and brain | Business Insider India](http://www.businessinsider.in/Heres-what-losing-weight-does-to-your-body-and-brain/articleshow/61321821.cms) 
+
+### October 31, 2017 
+- [Mental Models: The Best Way to Make Intelligent Decisions (113 Models Explained)](https://www.farnamstreetblog.com/mental-models/) 
