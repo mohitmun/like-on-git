@@ -184,3 +184,6 @@
 
 ### October 31, 2017 
 - [Mental Models: The Best Way to Make Intelligent Decisions (113 Models Explained)](https://www.farnamstreetblog.com/mental-models/) 
+
+### November 7, 2017 
+- [Ask HN: Which programmer do you look up to? | Hacker News](https://news.ycombinator.com/item?id=15621483) 
