@@ -191,3 +191,4 @@
 ### November 9, 2017 
 - [Simple Ways to Be Better at Remembering | Hacker News](https://news.ycombinator.com/item?id=15527198) 
 - [10032685 comments on You buy a 50L backpack and you're confronted by the genie that lives inside it. He tells you he'll fill the bag with whatever item you wish and you can keep it, so long as you can carry it for one mile. What would you fill the bag with?](https://www.reddit.com/r/AskReddit/comments/79utpg/you_buy_a_50l_backpack_and_youre_confronted_by/dp53b61/?st=j9s018cc&sh=076dfd67) 
+- [How Elon Musk Learns Faster And Better Than Everyone Else](https://medium.com/@michaeldsimmons/how-elon-musk-learns-faster-and-better-than-everyone-else-a010a4f586ef) 
