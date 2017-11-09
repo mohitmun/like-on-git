@@ -187,3 +187,6 @@
 
 ### November 7, 2017 
 - [Ask HN: Which programmer do you look up to? | Hacker News](https://news.ycombinator.com/item?id=15621483) 
+
+### November 9, 2017 
+- [Simple Ways to Be Better at Remembering | Hacker News](https://news.ycombinator.com/item?id=15527198) 
