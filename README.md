@@ -195,3 +195,4 @@
 
 ### November 10, 2017 
 - [The Great Indian Bank Recapitalization Program (2017 Edition) - Capitalmind](https://capitalmind.in/2017/10/great-indian-bank-recapitalization-program-2017-edition/) 
+- [Bank recapitalisation: A guide to understanding Indian government’s bond plan for the sector](https://scroll.in/article/855375/explainer-how-will-the-indian-governments-bank-recapitalisation-bonds-work) 
