@@ -197,3 +197,6 @@
 - [The Great Indian Bank Recapitalization Program (2017 Edition) - Capitalmind](https://capitalmind.in/2017/10/great-indian-bank-recapitalization-program-2017-edition/) 
 - [Bank recapitalisation: A guide to understanding Indian government’s bond plan for the sector](https://scroll.in/article/855375/explainer-how-will-the-indian-governments-bank-recapitalisation-bonds-work) 
 - [7 Things That Self-Made Billionaires Do Differently](https://medium.com/the-mission/8-things-that-self-made-billionaires-do-differently-26399196feb3) 
+
+### November 11, 2017 
+- [Research Blog: Fused Video Stabilization on the Pixel 2 and Pixel 2 XL](https://research.googleblog.com/2017/11/fused-video-stabilization-on-pixel-2.html) 
