@@ -200,3 +200,6 @@
 
 ### November 11, 2017 
 - [Research Blog: Fused Video Stabilization on the Pixel 2 and Pixel 2 XL](https://research.googleblog.com/2017/11/fused-video-stabilization-on-pixel-2.html) 
+
+### November 12, 2017 
+- [Learning How to Think: The Skill No One Taught You](https://www.farnamstreetblog.com/2015/08/william-deresiewicz-learn-how-to-think/) 
