@@ -203,3 +203,6 @@
 
 ### November 12, 2017 
 - [Learning How to Think: The Skill No One Taught You](https://www.farnamstreetblog.com/2015/08/william-deresiewicz-learn-how-to-think/) 
+
+### November 13, 2017 
+- [Elon Musk on Regulators](https://www.farnamstreetblog.com/2016/02/elon-musk-regulators/) 
