@@ -206,3 +206,6 @@
 
 ### November 13, 2017 
 - [Elon Musk on Regulators](https://www.farnamstreetblog.com/2016/02/elon-musk-regulators/) 
+
+### November 17, 2017 
+- [I am Tony Zhou, creator of the “Every Frame a Painting” filmmaking channel. AMA! : TrueFilm](https://www.reddit.com/r/TrueFilm/comments/2rg8jt/i_am_tony_zhou_creator_of_the_every_frame_a/?st=ja3hmwjv&sh=e6429ee0) 
