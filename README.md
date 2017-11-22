@@ -209,3 +209,6 @@
 
 ### November 17, 2017 
 - [I am Tony Zhou, creator of the “Every Frame a Painting” filmmaking channel. AMA! : TrueFilm](https://www.reddit.com/r/TrueFilm/comments/2rg8jt/i_am_tony_zhou_creator_of_the_every_frame_a/?st=ja3hmwjv&sh=e6429ee0) 
+
+### November 22, 2017 
+- [Deep Learning is Eating Software « Pete Warden's blog](https://petewarden.com/2017/11/13/deep-learning-is-eating-software/) 
