@@ -214,3 +214,6 @@
 - [Deep Learning is Eating Software « Pete Warden's blog](https://petewarden.com/2017/11/13/deep-learning-is-eating-software/) 
 - [Ask HN: Resources on how to improve abstract thinking skills? | Hacker News](https://news.ycombinator.com/item?id=15740777) 
 - [Peeqo - The GIF Bot - Album on Imgur](https://imgur.com/gallery/ue4Ax#3cBFW1E) 
+
+### November 23, 2017 
+- [The Sweet Spot for Intermittent Fasting – The Mission – Medium](https://medium.com/the-mission/the-sweet-spot-for-intermittent-fasting-9aae12a2158c) 
