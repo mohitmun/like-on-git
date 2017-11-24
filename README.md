@@ -217,3 +217,6 @@
 
 ### November 23, 2017 
 - [The Sweet Spot for Intermittent Fasting – The Mission – Medium](https://medium.com/the-mission/the-sweet-spot-for-intermittent-fasting-9aae12a2158c) 
+
+### November 24, 2017 
+- [The Beginner's Guide to Intermittent Fasting](https://jamesclear.com/the-beginners-guide-to-intermittent-fasting) 
