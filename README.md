@@ -220,3 +220,6 @@
 
 ### November 24, 2017 
 - [The Beginner's Guide to Intermittent Fasting](https://jamesclear.com/the-beginners-guide-to-intermittent-fasting) 
+
+### November 25, 2017 
+- [Precision and recall - Wikipedia](https://en.wikipedia.org/wiki/Precision_and_recall) 
