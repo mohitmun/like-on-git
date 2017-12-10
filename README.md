@@ -223,3 +223,6 @@
 
 ### November 25, 2017 
 - [Precision and recall - Wikipedia](https://en.wikipedia.org/wiki/Precision_and_recall) 
+
+### December 10, 2017 
+- [Fascinating Early Posts From Tech Founders Who Changed The World](http://carlcheo.com/fascinating-posts-from-tech-founders-who-changed-the-world) 
