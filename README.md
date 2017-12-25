@@ -226,3 +226,6 @@
 
 ### December 10, 2017 
 - [Fascinating Early Posts From Tech Founders Who Changed The World](http://carlcheo.com/fascinating-posts-from-tech-founders-who-changed-the-world) 
+
+### December 25, 2017 
+- [Schopenhauer: On Reading and Books](https://www.farnamstreetblog.com/2015/08/schopenhauer-on-reading/) 
