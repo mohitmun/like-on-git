@@ -229,3 +229,6 @@
 
 ### December 25, 2017 
 - [Schopenhauer: On Reading and Books](https://www.farnamstreetblog.com/2015/08/schopenhauer-on-reading/) 
+
+### January 8, 2018 
+- [The science of taste, or why you choose fries over broccoli — Universal-Sci](https://www.universal-sci.com/headlines/2017/5/31/the-science-of-taste-or-why-you-choose-fries-over-broccoli) 
