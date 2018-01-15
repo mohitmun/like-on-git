@@ -232,3 +232,6 @@
 
 ### January 8, 2018 
 - [The science of taste, or why you choose fries over broccoli — Universal-Sci](https://www.universal-sci.com/headlines/2017/5/31/the-science-of-taste-or-why-you-choose-fries-over-broccoli) 
+
+### January 15, 2018 
+- [Spectre & Meltdown: tapping into the CPU's subconscious thoughts • ds9a.nl articles](https://ds9a.nl/articles/posts/spectre-meltdown/) 
