@@ -235,3 +235,6 @@
 
 ### January 15, 2018 
 - [Spectre & Meltdown: tapping into the CPU's subconscious thoughts • ds9a.nl articles](https://ds9a.nl/articles/posts/spectre-meltdown/) 
+
+### January 20, 2018 
+- [Learn FFmpeg the hard way | Hacker News](https://news.ycombinator.com/item?id=16192813) 
