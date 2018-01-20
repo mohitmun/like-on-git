@@ -239,3 +239,6 @@
 ### January 20, 2018 
 - [Learn FFmpeg the hard way | Hacker News](https://news.ycombinator.com/item?id=16192813) 
 - [How a TV Works in Slow Motion - The Slow Mo Guys - YouTube](https://www.youtube.com/watch?v=3BJU2drrtCM) 
+
+### January 21, 2018 
+- [The Science of Fat-Loss: Why a Calorie Isn't Always a Calorie | The Blog of Author Tim Ferriss](https://tim.blog/2008/02/25/the-science-of-fat-loss-why-a-calorie-isnt-always-a-calorie/) 
