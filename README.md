@@ -238,3 +238,4 @@
 
 ### January 20, 2018 
 - [Learn FFmpeg the hard way | Hacker News](https://news.ycombinator.com/item?id=16192813) 
+- [How a TV Works in Slow Motion - The Slow Mo Guys - YouTube](https://www.youtube.com/watch?v=3BJU2drrtCM) 
