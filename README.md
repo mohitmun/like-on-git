@@ -246,3 +246,6 @@
 - [Alan Watts on Money vs. Wealth – Brain Pickings](https://www.brainpickings.org/2014/05/29/alan-watts-on-money-vs-wealth/) 
 - [The Time-Management Hack I Wish I Had Known When I Was 25 | Inc.com](https://www.inc.com/chris-mcgoff/the-most-memorable-leadership-advice-ive-ever-been-given.html?cid=sf01001&sr_share=twitter) 
 - [Efficient CUDA Stream Compaction - Davide SpataroDavide Spataro](http://www.davidespataro.it/cuda-stream-compaction-efficient-implementation/) 
+
+### January 25, 2018 
+- [Regex Match all characters between two strings - Stack Overflow](https://stackoverflow.com/questions/6109882/regex-match-all-characters-between-two-strings) 
