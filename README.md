@@ -249,3 +249,6 @@
 
 ### January 25, 2018 
 - [Regex Match all characters between two strings - Stack Overflow](https://stackoverflow.com/questions/6109882/regex-match-all-characters-between-two-strings) 
+
+### January 26, 2018 
+- [htop explained | peteris.rocks](https://peteris.rocks/blog/htop/) 
