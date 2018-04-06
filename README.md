@@ -259,3 +259,6 @@
 
 ### February 18, 2018 
 - [Let's Learn About Waveforms](https://pudding.cool/2018/02/waveforms/) 
+
+### April 6, 2018 
+- [I wandered off and built an IDE – QueryStorm Blog](http://blog.querystorm.com/index.php/2018/04/04/whynow/) 
