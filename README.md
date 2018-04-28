@@ -262,3 +262,6 @@
 
 ### April 6, 2018 
 - [I wandered off and built an IDE – QueryStorm Blog](http://blog.querystorm.com/index.php/2018/04/04/whynow/) 
+
+### April 28, 2018 
+- [Stevey's Blog Rants: June 2008](http://steve-yegge.blogspot.in/2008/06/) 
