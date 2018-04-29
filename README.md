@@ -265,3 +265,6 @@
 
 ### April 28, 2018 
 - [Stevey's Blog Rants: June 2008](http://steve-yegge.blogspot.in/2008/06/) 
+
+### April 29, 2018 
+- [ripgrep is faster than {grep, ag, git grep, ucg, pt, sift} - Andrew Gallant's Blog](https://blog.burntsushi.net/ripgrep/) 
