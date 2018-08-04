@@ -5,6 +5,9 @@
 - [Movies and TV shows](http://www.imdb.com/list/ls069839143/)
 
 
+
+### August 4, 2018 
+- [Lumen: Magic Auto Brightness Based on Screen Contents · cat /var/log/life](https://www.anishathalye.com/2016/07/31/lumen/) 
 ### July 7, 2018 
 - [Performance Calendar » Why aren’t your Images using Chroma-Subsampling?](https://calendar.perfplanet.com/2015/why-arent-your-images-using-chroma-subsampling/) 
 ### May 18, 2017
